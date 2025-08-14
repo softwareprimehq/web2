@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="127.84" y="126.85" width="256.33" height="256.33" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <rect x="199.84" y="199.32" width="110.35" height="109.41" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <rect x="173.2" y="172.91" width="163.61" height="162.21" transform="translate(-104.93 254.72) rotate(-45)" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <rect x="231.68" y="231.88" width="46.65" height="46.25" transform="translate(-105.63 255.01) rotate(-45)" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <polygon points="312.91 156.16 355.09 196.62 358.43 156.16 312.91 156.16" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <polygon points="357.13 311.03 316.68 353.22 357.13 356.56 357.13 311.03" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <polygon points="156.66 196.62 197.11 154.43 156.66 151.09 156.66 196.62" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <polygon points="198 354.02 155.81 313.57 152.47 354.02 198 354.02" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+  <circle cx="256" cy="256" r="217.06" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+</svg>

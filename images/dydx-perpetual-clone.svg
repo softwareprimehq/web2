@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g>
+    <polygon points="150.67 366.1 305.01 147.63 353.56 147.63 198.92 366.1 150.67 366.1" fill="none" stroke="#17234c" stroke-miterlimit="10" stroke-width="11"/>
+    <polygon points="146.76 138.62 196.5 138.62 240.26 203.35 216.88 237.22 146.76 138.62" fill="none" stroke="#17234c" stroke-miterlimit="10" stroke-width="11"/>
+    <polygon points="267.55 302.35 292.42 267.59 365.24 373.38 317.74 373.38 267.55 302.35" fill="none" stroke="#17234c" stroke-miterlimit="10" stroke-width="11"/>
+  </g>
+  <circle cx="256" cy="256" r="194.55" fill="none" stroke="#18234c" stroke-miterlimit="10" stroke-width="11"/>
+</svg>
