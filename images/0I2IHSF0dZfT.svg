@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="772.469" height="503.652" viewBox="0 0 772.469 503.652">
+  <g id="Group_21510" data-name="Group 21510" transform="translate(20273.111 8364.374)">
+    <g id="Group_21503" data-name="Group 21503" transform="translate(-20258.111 -8149.5)">
+      <path id="Path_16179" data-name="Path 16179" d="M-19578.5-8136h-679.611a15,15,0,0,1-15-15,15,15,0,0,1,15-15h679.611a15,15,0,0,1,15,15A15,15,0,0,1-19578.5-8136Z" transform="translate(20258.111 8193)" fill="#fff"/>
+      <path id="Polygon_1" data-name="Polygon 1" d="M39,0,78,53H0Z" transform="translate(706.111) rotate(90)" fill="#fff"/>
+    </g>
+    <g id="Group_21501" data-name="Group 21501" transform="translate(-20258.111 -8364.374)">
+      <path id="Path_16178" data-name="Path 16178" d="M-19779.051-8194.7c-15.471,0-26.148-.78-29.352-1.048h-449.709a15,15,0,0,1-15-15,15,15,0,0,1,15-15h451.021l.674.06c2.018.184,202.258,16.544,244.727-105.91a15,15,0,0,1,19.086-9.257,15,15,0,0,1,9.258,19.087C-19572.9-8207.716-19715.885-8194.7-19779.051-8194.7Z" transform="translate(20258.111 8368.393)" fill="#fff"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M39,0,78,53H0Z" transform="matrix(0.883, 0.469, -0.469, 0.883, 688.6, 0)" fill="#fff"/>
+    </g>
+    <g id="Group_21502" data-name="Group 21502" transform="translate(-20258.111 -8019.313)">
+      <path id="Path_16178-2" data-name="Path 16178" d="M-19547.518-8194.8a15,15,0,0,1-14.172-10.089c-42.469-122.455-242.711-106.094-244.727-105.91l-.664.059h-451.031a15,15,0,0,1-15-15,15,15,0,0,1,15-15h449.709c16.273-1.361,225.813-15.968,275.057,126.021a15,15,0,0,1-9.258,19.087A14.962,14.962,0,0,1-19547.518-8194.8Z" transform="translate(20258.111 8326.685)" fill="#fff"/>
+      <path id="Polygon_2-2" data-name="Polygon 2" d="M39,0,78,53H0Z" transform="matrix(-0.883, 0.469, -0.469, -0.883, 757.47, 121.972)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
